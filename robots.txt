@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zws312tex.github.io/cctv-dongqiudi-com-2/sitemap.xml
